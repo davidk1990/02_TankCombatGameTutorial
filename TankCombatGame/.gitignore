@@ -46,7 +46,7 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 #Starter Content
-TankCombatGame/Content/StarterContent
+TankCombatGame/Content/StarterContent/
 
 # Binary Files
 Binaries/*
